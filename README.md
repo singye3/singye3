@@ -1,6 +1,6 @@
 
 
-<h1 align="center"># Hi 👋, I'm Singye</h1>
+<h1 align="center">I'm S I N G Y E</h1>
 <h3 align="center">A passionate developer from Bhutan with a love for technology and a passion for coding</h3>
 
 <h3 align="left">📫 How to reach me:</h3>
