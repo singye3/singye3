@@ -1,7 +1,5 @@
-- 👋 `import { Singye } from '@world';` // Bridging `Web` & `AI/ML`.
-- 👀 **Stack:** `React`, `Python`/`Node.js`, `GraphQL`/`REST` | **AI:** `Transformers`, `LLMs` (Prompting, Fine-tuning, RAG, Agents), `CV`, `MLOps`. Love the math behind it all.
-- 🌱 **Current Processes:** Fine-tuning `LLMs` (LoRA/QLoRA), exploring multimodal nets, wrestling `async`/`await`, wrangling `VectorDBs`. Always learning.
-- 💞️ **Seeking Collabs:** `OSS` Web+AI tools, interactive ML demos, `GenAI` experiments. `git pull` requests welcome!
-- 📫 **Ping:** `singyedorji0221@gmail.com` || `linkedin.com/in/singye-dorji-bb528a233`
-- 😄 **Pronouns:** `He/Him` # Or model.predict(context)
-- ⚡ **Fun Fact:** My GPU often thermal throttles before my brain does during training runs. `console.log("It works on my machine!")` 😉
+- `import { Singye } from '@world';` // Bridging `Web` & `AI/ML`.
+- **Stack:** `Python`/`ruby`/`elixir`, `GraphQL`/`REST` | **AI:** `Transformers`, `LLMs` (Prompting, Fine-tuning, RAG, Agents), `CV`, `MLOps`. Love the math behind it all.
+- **Current Processes:** Fine-tuning `LLMs` (LoRA/QLoRA), exploring multimodal nets, wrestling `async`/`await`, wrangling `VectorDBs`. Always learning.
+- **Ping:** `singyedorji0221@gmail.com` || `linkedin.com/in/singye-dorji-bb528a233`
+- **Pronouns:** `He/Him` # Or model.predict(context)
