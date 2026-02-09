@@ -1,5 +1,5 @@
 - `import { Singye } from '@world';` // Bridging `Web` & `AI/ML`.
 - **Stack:** `Python`/`ruby`/`elixir`, `GraphQL`/`REST` | **AI:** `Transformers`, `LLMs` (Prompting, Fine-tuning, RAG, Agents), `CV`, `MLOps`. Love the math behind it all.
 - **Current Processes:** Fine-tuning `LLMs` (LoRA/QLoRA), exploring multimodal nets, wrestling `async`/`await`, wrangling `VectorDBs`. Always learning.
-- **Ping:** `singyedorji0221@gmail.com` || `linkedin.com/in/singye-dorji-bb528a233`
+- **Ping:** `linkedin.com/in/singye-dorji-bb528a233`
 - **Pronouns:** `He/Him` # Or model.predict(context)
