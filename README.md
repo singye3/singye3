@@ -1,3 +1,3 @@
 - **Stack:** `Python`/`ruby`/`elixir`/`c`, `GraphQL`/`REST`, `Sys call` | **AI:** `Transformers`, `LLMs` (Prompting, Fine-tuning, RAG, Agents), `CV`, `MLOps`. Love the math behind it all.
-- **Current Processes: Always learning.
+- **Current Processes**: Always learning.
 - **Ping:** `linkedin.com/in/singye-dorji-bb528a233`
